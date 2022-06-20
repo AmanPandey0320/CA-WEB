@@ -73,6 +73,7 @@ const GREY = {
 
 const GRADIENTS = {
   primary: createGradient(PRIMARY.light, PRIMARY.main),
+  secondary: createGradient(SECONDARY.light, SECONDARY.main),
   info: createGradient(INFO.light, INFO.main),
   success: createGradient(SUCCESS.light, SUCCESS.main),
   warning: createGradient(WARNING.light, WARNING.main),
